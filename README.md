@@ -8,4 +8,4 @@
 ### Description:
 It's is my core, I use it for my plugins. It greatly simplifies the development of many plugins.
     
-## WIKI FOR DEVELOPERS:
+## [WIKI FOR DEVELOPERS](https://github.com/DarthBoomerPlay/DarthCore/wiki)
